@@ -7,4 +7,8 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/kapten-kaizo/mardis
+https://github.com/LUTFITzy/LUTFI-ID
+
+cd LUTFI-ID
+
+python run py
