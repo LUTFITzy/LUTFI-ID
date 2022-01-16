@@ -7,7 +7,7 @@ pkg install python2
 
 pkg install git
 
-https://github.com/LUTFITzy/LUTFI-ID
+git clone https://github.com/LUTFITzy/LUTFI-ID
 
 cd LUTFI-ID
 
